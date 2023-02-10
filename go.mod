@@ -5,7 +5,7 @@ go 1.18
 require (
 	github.com/cloud-maker-ai/go-unique-string v0.0.0-20221215222937-c55128876647
 	github.com/hashicorp/terraform-plugin-docs v0.13.0
-	github.com/hashicorp/terraform-plugin-framework v1.0.1
+	github.com/hashicorp/terraform-plugin-framework v1.1.1
 	github.com/hashicorp/terraform-plugin-go v0.14.3
 	github.com/hashicorp/terraform-plugin-sdk/v2 v2.24.1
 )
