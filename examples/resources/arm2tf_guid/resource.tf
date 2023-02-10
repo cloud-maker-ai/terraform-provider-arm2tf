@@ -1,4 +1,6 @@
-# The following example shows how to generate a determinsitic guid for tag on an Azure Storage Account.
+# The following example shows how to generate
+# a deterministic guid for a tag on an Azure
+# Storage Account.
 
 resource "arm2tf_guid" "storage" {
   input = [
