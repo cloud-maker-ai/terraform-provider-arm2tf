@@ -10,6 +10,8 @@ The `arm2tf` provider implements ARM template functions, allowing configurations
 
 Currently, the implemented functions are:
 
-- (Logical) Resource [arm2tf_unique_string](./resources/unique_string.md) implements the ARM Template function [UniqueString()](https://learn.microsoft.com/en-us/azure/azure-resource-manager/templates/template-functions-string#uniquestring).
+- (Logical) Resource [arm2tf_guid](./docs/resources/guid.md) implements the ARM Template function [Guid()](https://learn.microsoft.com/en-us/azure/azure-resource-manager/templates/template-functions-string#guid).
+
+- (Logical) Resource [arm2tf_unique_string](./docs/resources/unique_string.md) implements the ARM Template function [UniqueString()](https://learn.microsoft.com/en-us/azure/azure-resource-manager/templates/template-functions-string#uniquestring).
 
 **N.B.** All resources marked (Logical) carry out their processing within the provider, *they don't call any network resources* such as the Azure Resource Manager APIs.

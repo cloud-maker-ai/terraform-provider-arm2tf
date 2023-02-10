@@ -32,6 +32,7 @@ func (p *ARM2TFProvider) Configure(ctx context.Context, req provider.ConfigureRe
 
 func (p *ARM2TFProvider) Resources(ctx context.Context) []func() resource.Resource {
 	return []func() resource.Resource{
+		NewGuidResource,
 		NewUniqueStringResource,
 	}
 }

@@ -28,6 +28,8 @@ github.com/armon/go-radix v1.0.0/go.mod h1:ufUuZ+zHj4x4TnLV4JWEpy2hxWSpsRywHrMgI
 github.com/armon/go-socks5 v0.0.0-20160902184237-e75332964ef5/go.mod h1:wHh0iHkYZB8zMSxRWpUBQtwG5a7fFgvEO+odwuTv2gs=
 github.com/bgentry/speakeasy v0.1.0 h1:ByYyxL9InA1OWqxJqqp2A5pYHUrCiAL6K3J+LKSsQkY=
 github.com/bgentry/speakeasy v0.1.0/go.mod h1:+zsyZBPWlz7T6j88CTgSN5bM796AkVf0kBD4zp0CCIs=
+github.com/cloud-maker-ai/go-guid v0.0.0-20230210161348-6039d3c3397b h1:e3i0jzObdov6dKAFYXLil1t41Vg9FPsDESEo1TuGl9g=
+github.com/cloud-maker-ai/go-guid v0.0.0-20230210161348-6039d3c3397b/go.mod h1:BAjlIWyW/1ZXxNKyCFw5KrCEc6+KadQEAZ9Oa0lvrOo=
 github.com/cloud-maker-ai/go-unique-string v0.0.0-20221215222937-c55128876647 h1:kzvnfUbhn9YAPw3VYeRWK0GSNMoKSTtFxlrPozLifjo=
 github.com/cloud-maker-ai/go-unique-string v0.0.0-20221215222937-c55128876647/go.mod h1:BC7zcZGce05U0HskuddCsHSmizBI4skK6FC4aF9kwgc=
 github.com/creack/pty v1.1.9/go.mod h1:oKZEueFk5CKHvIhNR5MUki03XCEU+Q6VDXinZuGJ33E=
