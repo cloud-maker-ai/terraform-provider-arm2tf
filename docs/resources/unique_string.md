@@ -44,5 +44,3 @@ resource "azurerm_storage_account" "my_storage_account" {
 
 - `id` (String) The generated unique string.
 - `result` (String) The generated unique string.
-
-
