@@ -16,7 +16,7 @@ Official documentation on how to use this provider can be found on the
 ## Requirements
 
 * [Terraform](https://www.terraform.io/downloads) (>= 0.12)
-* [Go](https://go.dev/doc/install) (1.18)
+* [Go](https://go.dev/doc/install) (1.21)
 * [GNU Make](https://www.gnu.org/software/make/)
 * [golangci-lint](https://golangci-lint.run/usage/install/#local-installation) (optional)
 

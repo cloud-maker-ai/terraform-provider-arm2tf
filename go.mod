@@ -1,6 +1,6 @@
 module github.com/cloud-maker-ai/terraform-provider-arm2tf
 
-go 1.18
+go 1.21
 
 require (
 	github.com/cloud-maker-ai/go-unique-string v0.0.0-20221215222937-c55128876647
