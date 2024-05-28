@@ -53,5 +53,3 @@ resource "azurerm_storage_account" "my_storage_account" {
 
 - `id` (String) The generated Guid formatted string.
 - `result` (String) The generated Guid formatted string.
-
-
